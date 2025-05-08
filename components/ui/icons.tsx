@@ -56,4 +56,5 @@ export const Icons = {
   alert: AlertCircle,
   edit: Edit,
   trash: Trash,
+  logo: ClipboardList,
 };
